@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.exe
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.deps.json
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.runtimeconfig.json
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.dll
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\ref\Class_Abstraite_Employe.dll
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\bin\Debug\net5.0\Class_Abstraite_Employe.pdb
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.dll
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\ref\Class_Abstraite_Employe.dll
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.pdb
+C:\Users\Aizen\source\repos\Class_Abstraite_Employe\obj\Debug\net5.0\Class_Abstraite_Employe.genruntimeconfig.cache
