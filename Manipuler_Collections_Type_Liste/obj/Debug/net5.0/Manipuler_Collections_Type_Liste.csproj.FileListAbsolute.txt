@@ -1,0 +1,16 @@
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.csproj.AssemblyReference.cache
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.AssemblyInfoInputs.cache
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.AssemblyInfo.cs
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.csproj.CoreCompileInputs.cache
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.exe
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.deps.json
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.runtimeconfig.json
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.runtimeconfig.dev.json
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.dll
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\ref\Manipuler_Collections_Type_Liste.dll
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\bin\Debug\net5.0\Manipuler_Collections_Type_Liste.pdb
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.dll
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\ref\Manipuler_Collections_Type_Liste.dll
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.pdb
+C:\Users\Aizen\source\repos\Manipuler_Collections_Type_Liste\obj\Debug\net5.0\Manipuler_Collections_Type_Liste.genruntimeconfig.cache

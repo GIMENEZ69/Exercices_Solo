@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Manipuler_Collections_Type_Liste/1.0.0": {
+        "runtime": {
+          "Manipuler_Collections_Type_Liste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipuler_Collections_Type_Liste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
